@@ -25,4 +25,4 @@ while x != n:
             x = input("That is not a number, man! Guess again: ")
 
 print("YES! You got it!")
-input("Press any key to exit.")
+exit()
